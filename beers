@@ -1,0 +1,47 @@
+[
+  {
+  "id":1,
+  "name":"Amstel",
+  "mark":"Ambev",
+  "type":"Lager",
+  "price":"10.99",
+  "description":"Cerveja puro-malte, leve e com características únicas.",
+  "img":"5a67a9110e6e20.05911200 1516742929.jpg",
+  "created_at":"2018-01-23T19:28:49-0500",
+  "updated_at":"2018-01-23T19:28:49-0500"
+  },
+  {
+  "id":2,
+  "name":"Baden Baden",
+  "mark":"Heizen",
+  "type":"IPA",
+  "price":"10.99",
+  "description":"Cerveja puro-malte, leve e com características únicas.",
+  "img":"5a67a9110e6e20.05911200 1516742929.jpg",
+  "created_at":"2018-01-23T19:28:49-0500",
+  "updated_at":"2018-01-23T19:28:49-0500"
+  },
+  {
+  "id":3,
+  "id":2,
+  "name":"Madalena",
+  "mark":"Madalena",
+  "type":"IPA",
+  "price":"10.99",
+  "description":"Cerveja puro-malte, leve e com características únicas.",
+  "img":"5a67a9110e6e20.05911200 1516742929.jpg",
+  "created_at":"2018-01-23T19:28:49-0500",
+  "updated_at":"2018-01-23T19:28:49-0500"
+  },
+  {
+  "id":2,
+  "name":"WeissDünkel",
+  "mark":"ZeinsBeer",
+  "type":"IPA",
+  "price":"10.99",
+  "description":"Cerveja puro-malte, leve e com características únicas.",
+  "img":"5a67a9110e6e20.05911200 1516742929.jpg",
+  "created_at":"2018-01-23T19:28:49-0500",
+  "updated_at":"2018-01-23T19:28:49-0500"
+  }
+]
