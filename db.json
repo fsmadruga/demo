@@ -1,11 +1,14 @@
 {
   "beers": [
-    { "id": 1, "name": "Heineken", "mark": "Heineken CO.", "price": "12,90", "type": "Lager", "decription": "A Heineken é uma das mais famosas cervejas vendidas no mundo.Espuma média,branca e persistente é o que se vê logo após despejá-la no copo. Sua aparência se completa com boa formação de colarinho, um corpo transparente e coloração amarela média.", "grad": "6" }
+    { "id": 1, "name": "Amstel", "mark": "Amstel", "price": "10,90", "type": "Lager", "decription": "Cerveja lager refrescante, transparente, com boa espuma e aroma discreto de lúpulo e malte.", "grad": "5.0" },
+    { "id": 2, "name": "Baden Baden", "mark": "Amstel", "price": "10,90", "type": "IPA", "decription": "Uma cerveja clara, leve e refrescante, e uma pilsen autêntica, produzida somente com maltes de cevada.", "grad": "5.5" },
+    { "id": 3, "name": "Heineken", "mark": "Heineken CO.", "price": "12,90", "type": "Lager", "decription": "A Heineken é uma das mais famosas cervejas vendidas no mundo.Espuma média,branca e persistente é o que se vê logo após despejá-la no copo. Sua aparência se completa com boa formação de colarinho, um corpo transparente e coloração amarela média.", "grad": "6" }
   ],
   "locals": [
-    { "id": 1, "name": "Bar do Ary", "beersId": 1 }
+    { "id": 1, "locar": "Bar do Ary", "city": "Santo André },
+    { "id": 2, "local": "Skina´s Bar", "city": "São Bernardo do Campo" }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "aboutbeer"
   }
 }
