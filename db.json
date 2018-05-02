@@ -6,7 +6,7 @@
   ],
   "locals": [
     { "id": 1, "locar": "Bar Maria", "city": "Santo André", "description":"Ambiente aberto, com boa carta de cervejas artesanais e petiscos de boteco que fazem a diferença na harmonização." },
-    { "id": 2, "local": "LiverPool", "city": "São Bernardo do Campo", "description":"Tradiconal pub de São Bernardo, o LiverPool destaca-se pela excelente carta de cervejas e boa música. }
+    { "id": 2, "local": "LiverPool", "city": "São Bernardo do Campo", "description":"Tradiconal pub de São Bernardo, o LiverPool destaca-se pela excelente carta de cervejas e boa música." }
   ],
   "profile": {
     "name": "aboutbeer"
