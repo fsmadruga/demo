@@ -10,8 +10,8 @@
     { "id": 8, "name": "Heineken", "mark": "Heineken CO.", "price": "12,90", "type": "Lager", "description": "Heineken é uma das mais famosas cervejas vendidas no mundo.Espuma média,branca e persistente é o que se vê logo após despejá-la no copo. Sua aparência se completa com boa formação de colarinho, um corpo transparente e coloração amarela média.", "grad": "6", "img":"http://www.vvibe.biz/aboutbeer/img/rt-heineken_lager.png" }
   ],
   "locals": [
-    { "id": 1, "name": "Bar Maria", "style":"Bar", "price": "$$", "address":"R. Pe. Manoel de Nóbrega, 256 - B.Jardim", "city": "Santo André", "phone": "11 4433.8899", "description":"Ambiente aberto, com boa carta de cervejas artesanais e petiscos de boteco que fazem a diferença na harmonização." },
-    { "id": 2, "name": "LiverPool", "style":"Pub", "price": "$$$", "address":"Av. Kennedy, 1.286 - V. Marlene", "city": "São Bernardo do Campo", "phone": "11 4488.9999", "description":"Tradicional pub de São Bernardo, o LiverPool destaca-se pela excelente carta de cervejas e boa música." }
+    { "id": 1, "name": "Bar Maria", "style":"Bar", "price": "$$", "address":"R. Pe. Manoel de Nóbrega, 256 - B.Jardim", "city": "Santo André", "phone": "11 4433.8899", "description":"Ambiente aberto, com boa carta de cervejas artesanais e petiscos de boteco que fazem a diferença na harmonização.", "img":"http://www.vvibe.biz/aboutbeer/img/lc-bar_maria.png" },
+    { "id": 2, "name": "LiverPool", "style":"Pub", "price": "$$$", "address":"Av. Kennedy, 1.286 - V. Marlene", "city": "São Bernardo do Campo", "phone": "11 4488.9999", "description":"Tradicional pub de São Bernardo, o LiverPool destaca-se pela excelente carta de cervejas e boa música.", "img":"http://www.vvibe.biz/aboutbeer/img/lc-liverpool.png" }
   ],
   "profile": {
     "name": "aboutbeer"
